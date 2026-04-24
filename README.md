@@ -1,5 +1,19 @@
 # TTS-Vue
 
+---
+
+# 🎉 新项目重磅发布
+
+**项目名称：** `TTS-Vue-Next`
+
+**开源地址：** [https://github.com/LokerL/tts-vue-next](https://github.com/LokerL/tts-vue-next)
+
+**项目简介：** 一款基于 **Microsoft Edge TTS** 服务打造的跨平台桌面文本转语音（TTS）应用。
+
+**技术栈：**  Vue 3 + Vuetify + Tauri** 轻量化桌面方案
+
+---
+
 🎤 微软语音合成工具，使用 `Electron` + `Vue` + `ElementPlus` + `Vite` 构建.
 
 ## 开始使用
